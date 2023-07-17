@@ -13,15 +13,15 @@ Cleaning the data in power query editor
 Create the Dashboard as per the requirement
 
 Charts Use : 
-Cluseterd and Stacked column chart
-Line and cluseterd column chart
-Pie and Donut Chart
-Line Chart
-Map
+Cluseterd and Stacked column chart,
+Line and cluseterd column chart,
+Pie and Donut Chart,
+Line Chart,
+Map,
 Card and Slicer
 
-Conclusion :
+Conclusion : 
 In terms of revenue, the technology category is high. Among all the segments, the quantity of the consumer segment is high. North America emerges as the top-performing country generating highest revenue. Further analysis reveals that the count of priority order in the month of December is high and in the month of February is lowest.
 
-Suggestions :
+Suggestions : 
 Highest losses are reported in Turkey, Nigeria, Netherlands, Honduras and Pakistan. Stores should focus on these countries to improve profits and prioritize profitable products that have remained consistent in generating revenue.
